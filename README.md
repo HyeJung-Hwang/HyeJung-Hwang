@@ -1,7 +1,7 @@
 ### Hi, I am Hyejung Hwang 👐
 
 #### CV
-- [CV link](https://drive.google.com/file/d/1AmWGH1_oCR4nR6at-Bq9PFxcQynMoGni/view?usp=sharing)
+- [CV link](https://docs.google.com/document/d/e/2PACX-1vTqmkQE38unl1_lt8vZbypc7DmbpS2ov8ECkgjwKB4VCVN8Lq03QGWp6HYeZP6q7g/pub)
 
 #### Skills
 - Data Engineering 🖥️ 
