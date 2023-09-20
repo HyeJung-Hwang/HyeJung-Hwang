@@ -1,6 +1,6 @@
 ### Hi, I am Hyejung Hwang 👐
 #### This is my cv.
-- [CV link](https://drive.google.com/drive/folders/1TUjjbIHJxBYrWIST4LEwFmrj5IaRd2aN)
+- [CV link](https://drive.google.com/file/d/1AFy5SeJXDPsABH3FRGyFYXugewIcXM9p/view?usp=sharing)
 #### These are my skills.
 - Data Engineering 🖥️ 
   - Orchestration: Airflow
