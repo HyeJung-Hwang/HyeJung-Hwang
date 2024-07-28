@@ -5,7 +5,7 @@
 - Data Engineering 🖥️ 
   - Data Pipeline Orchestration: Airflow
   - Database: SQL, MongoDB
-- Data Analysis 📊
+- AI/ML 📊
   - Deep Learning: PyTorch, Pandas, CUDA
 #### These are my recent interests
 - AI Infra
