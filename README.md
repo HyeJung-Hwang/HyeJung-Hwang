@@ -7,7 +7,7 @@
     - Data pipeline management: Airflow
     - Database: Pinecone, MongoDB, SQL
   - AI/ML 
-    - Deep Learning: PyTorch, Pandas, CUDA
+    - Deep Learning: PyTorch, CUDA
 - Recent interests
   - AI Infra
   - Data pipeline optimization
