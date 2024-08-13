@@ -4,8 +4,8 @@
 #### These are my skills and recent interests I got from my experience.
 - Skills
   - Data Engineering 
-    - Data Pipeline Orchestration: Airflow
-    - Database: Pinecond, MongoDB, SQL
+    - Data pipeline management: Airflow
+    - Database: Pinecone, MongoDB, SQL
   - AI/ML 
     - Deep Learning: PyTorch, Pandas, CUDA
 - Recent interests
