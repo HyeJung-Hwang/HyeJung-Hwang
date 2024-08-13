@@ -9,6 +9,6 @@
   - AI/ML 
     - Deep Learning: PyTorch, CUDA
 - Recent interests
-  - AI Infra
+  - AI infra
   - Data pipeline optimization
   - Mulitimodal AI
