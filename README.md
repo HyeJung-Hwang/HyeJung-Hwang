@@ -6,7 +6,7 @@
   - Data Engineering 
     - Data Pipeline Orchestration: Airflow
     - Database: Pinecond, MongoDB, SQL
-  - AI/ML 
+  - AI/ML 
     - Deep Learning: PyTorch, Pandas, CUDA
 - Recent interests
   - AI Infra
