@@ -3,7 +3,7 @@
 - [CV link](https://drive.google.com/file/d/1s3OoFImEtFsONVI0qwVFK5G2W3XZqgBV/view?usp=sharing)
 #### These are my skills and recent interests I got from my experience.
 - Skills
-  - Data Engineering 
+  - Data engineering 
     - Data pipeline management: Airflow
     - Database: Pinecone, MongoDB, SQL
   - AI/ML 
